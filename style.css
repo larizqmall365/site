@@ -177,4 +177,20 @@ hr {
         text-align: left;
         margin-top: 20px;
     }
+
+    .return-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .return-section .guarantee {
+        order: 2;
+        margin-top: 20px;
+    }
+
+    .return-section div {
+        order: 1;
+        width: 100%;
+        text-align: center;
+    }
 }
