@@ -39,7 +39,7 @@ body {
 }
 .product-details h1, .product-details h2, .product-details h3 {
     background-color: yellow;
-    display: inline;
+    display: block;
     color: black;
     padding: 5px;
     text-align: left;
@@ -53,6 +53,9 @@ body {
     margin-bottom: 10px;
 }
 .product-details h3 {
+    display: block;
+    background-color: black;
+    color:white
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 10px;
