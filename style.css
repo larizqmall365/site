@@ -68,8 +68,8 @@ body {
 }
 
 .product-details ul {
-    list-style: none;
-    padding: 0;
+    list-style-type: disc; /* Use standard dotted list */
+    padding-left: 20px; /* Add padding to align with the standard list style */
 }
 
 .product-details ul li {
@@ -120,8 +120,8 @@ body {
 }
 
 .section ul {
-    list-style: none;
-    padding: 0;
+    list-style-type: disc; /* Use standard dotted list */
+    padding-left: 20px; /* Add padding to align with the standard list style */
 }
 
 .section ul li {
